@@ -56,3 +56,30 @@ th {
 .table {
   background-color: #b1e4f2;
 }
+.info {
+  font-size: 20px;
+  color: #818181;
+  margin-bottom: 10px;
+}
+footer {
+  margin: auto;
+  width: 70%;
+}
+.monitor {
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+}
+.graphic {
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.text-image {
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  font-size: 16px;
+}
