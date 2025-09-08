@@ -14,3 +14,27 @@ header {
   margin-top: 70px;
   margin-left: 190px;
 }
+main {
+  margin: auto;
+  width: 70%;
+}
+.title {
+  text-align: left;
+  font-size: 50px;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.author {
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #808080;
+}
+span {
+  color: #1fa9e5;
+}
+.time {
+  color: #808080;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
